@@ -35,7 +35,9 @@ const crypto = require('crypto')
 const base64Img = require('base64-img')
 const ms = require('parse-ms')
 const figlet = require('figlet')
+const ytsd = require('ytsr')
 
+const yts = require( 'yt-search')
 
 const brainly = require('brainly-scraper')
 const ig = require('insta-fetcher')
